@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "algoliasearch": "^3.32.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "electron-boilerplate": "^1.1.1",
     "electron-google-analytics": "^0.1.0",
     "electron-is": "^3.0.0",

@@ -67,7 +67,7 @@
   "devDependencies": {
     "concurrently": "^4.1.0",
     "cross-env": "^5.2.0",
-    "electron": "^4.0.5",
+    "electron": "^7.2.4",
     "electron-builder": "^20.38.5",
     "electron-publisher-s3": "^20.17.2",
     "prettier": "^1.16.4",

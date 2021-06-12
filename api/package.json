@@ -71,7 +71,7 @@
 		"node-opml-parser": "^1.0.0",
 		"node-statsd": "^0.1.1",
 		"nodemon": "^1.18.10",
-		"normalize-url": "^4.1.0",
+		"normalize-url": "^4.5.1",
 		"opml-generator": "^1.1.1",
 		"progress": "^2.0.3",
 		"raven": "^2.6.4",
